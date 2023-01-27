@@ -1,4 +1,4 @@
 package com.example.chatservice.config;
 
-public class RestMessageController {
+public class WebSocketConfig {
 }
